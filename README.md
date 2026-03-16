@@ -1,2 +1,48 @@
 # ELITE_TRAINING
-This repository contains materials and notes from the Elite Training – Slot 1 program conducted between January and February 2026.
+Elite Technical Training – Slot 1
+Duration:
+  January 2026 – February 2026
+About the Training:
+  This repository contains the learning materials and session resources from Elite Technical Training – Slot 1.
+  The training program focused on improving programming fundamentals, logical reasoning, and problem-solving skills required for technical interviews and software   development.All session documents and reference materials from the training are organized here for easy access and revision.
+
+🎯 Key Learning Areas
+
+    Programming fundamentals
+    
+    Logical problem solving
+    
+    Algorithmic thinking
+    
+    Coding strategies
+    
+    Technical interview preparation
+
+📂 Repository Contents
+
+  The repository includes training materials from the following sessions:
+
+Session	     Date
+Session 1	  21 Jan 2026
+Session 2	  22 Jan 2026
+Session 3 	23 Jan 2026
+Session 4 	27 Jan 2026
+Session 5	  28 Jan 2026
+Session 6 	29 Jan 2026
+Session 7	  30 Jan 2026
+Session 8	  02 Feb 2026
+Session 9	  03 Feb 2026
+Session 10	04 Feb 2026
+Session 11	05 Feb 2026
+Session 12	06 Feb 2026
+
+
+🧠 Skills Strengthened
+
+    Analytical thinking
+    
+    Logical reasoning
+    
+    Programming practice
+    
+    Problem-solving techniques
