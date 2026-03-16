@@ -18,23 +18,6 @@ About the Training:
     
     Technical interview preparation
 
-📂 Repository Contents
-
-  The repository includes training materials from the following sessions:
-
-Session	     Date
-Session 1	  21 Jan 2026
-Session 2	  22 Jan 2026
-Session 3 	23 Jan 2026
-Session 4 	27 Jan 2026
-Session 5	  28 Jan 2026
-Session 6 	29 Jan 2026
-Session 7	  30 Jan 2026
-Session 8	  02 Feb 2026
-Session 9	  03 Feb 2026
-Session 10	04 Feb 2026
-Session 11	05 Feb 2026
-Session 12	06 Feb 2026
 
 
 🧠 Skills Strengthened
